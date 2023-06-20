@@ -12,5 +12,5 @@ Thank you kindly, and I look forward to engaging with you all 🥰
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ---
-[![]([![](https://visitcount.itsvg.in/api?id=Mahptuan&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in))
+[![]([![](https://visitcount.itsvg.in/api?id=Mahptuan&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
